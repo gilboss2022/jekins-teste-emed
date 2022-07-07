@@ -1,3 +1,3 @@
 <?php
-echo "Elaia";
+echo "Estamos configurando";
 ?>
