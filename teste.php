@@ -1,3 +1,3 @@
 <?php
-echo "Big Bam";
+echo "Hello";
 ?>
