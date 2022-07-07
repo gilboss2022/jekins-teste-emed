@@ -1,2 +1,2 @@
-jekins-teste-emed alterado por Andr&#233
+jekins-teste-emed
 ===============
