@@ -1,3 +1,3 @@
 <?php
-echo "Estamos configurando";
+echo "Validando versoes";
 ?>
